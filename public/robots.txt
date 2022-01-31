@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nguyenngocbinh.github.io/sitemap.xml
