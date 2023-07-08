@@ -1,6 +1,6 @@
 site_name: 'Read The Docs NguyenNgocBinh'
 site_description: 'Note interesting things.'
-repo_url: 'https://nguyenngocbinh.github.io/'
+repo_url: 'https://github.com/nguyenngocbinh/nguyenngocbinh.github.io/'
 repo_name: 'GitHub'
 docs_dir: 'docs/'
 site_dir: '_site_mkdocs/'
