@@ -4,7 +4,7 @@ remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
 site_author: Nguyễn Ngọc Bình
-repo_url: "https://github.com/nguyenngocbinh/nguyenngocbinh.github.io"
+repo_url: "https://nguyenngocbinh.github.io"
 edit_on_github: true
 github_docs_folder: true
 sticky_navigation: true
