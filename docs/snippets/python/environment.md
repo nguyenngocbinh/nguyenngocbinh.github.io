@@ -4,7 +4,7 @@ title: 🐍 Python
 nav_order: 2
 ---
 
-# I. Environment setup
+# Environment setup
 
 1. Using **conda**
 
