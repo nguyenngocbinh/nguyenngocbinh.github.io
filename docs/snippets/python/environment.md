@@ -11,11 +11,11 @@ nav_order: 2
     1. Create conda environment
 
         1. Quick create env using `conda create`
-
-            ```python
+       
+            <pre id="codeSnippet">
             conda create -n env_rdm python=3.10 pip ipykernel notebook
             conda activate env_rdm
-            ```
+            </pre>
 
         1. Create env use `environment.yaml` file
 
