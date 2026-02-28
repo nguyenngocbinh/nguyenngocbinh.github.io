@@ -14,6 +14,7 @@
   --green: #00b894;
   --purple: #a855f7;
   --gold: #f59e0b;
+  --red: #ef4444;
 }
 
 /* ── Reset ── */
@@ -178,12 +179,14 @@ body {
 .card-green .card-glow  { background: radial-gradient(circle, rgba(0,184,148,.06) 0%, transparent 70%); }
 .card-purple .card-glow { background: radial-gradient(circle, rgba(168,85,247,.06) 0%, transparent 70%); }
 .card-gold .card-glow   { background: radial-gradient(circle, rgba(245,158,11,.06) 0%, transparent 70%); }
+.card-red .card-glow    { background: radial-gradient(circle, rgba(239,68,68,.06) 0%, transparent 70%); }
 
 /* Top border accent */
 .card-blue   { border-top: 4px solid var(--blue); }
 .card-green  { border-top: 4px solid var(--green); }
 .card-purple { border-top: 4px solid var(--purple); }
 .card-gold   { border-top: 4px solid var(--gold); }
+.card-red    { border-top: 4px solid var(--red); }
 
 .card-icon {
   font-size: 3rem;
@@ -204,6 +207,7 @@ body {
 .card-green .card-title  { color: var(--green); }
 .card-purple .card-title { color: var(--purple); }
 .card-gold .card-title   { color: var(--gold); }
+.card-red .card-title    { color: var(--red); }
 
 .card-desc {
   font-size: .9rem;
@@ -249,6 +253,7 @@ body {
 .card-green .card-btn  { background: var(--green); }
 .card-purple .card-btn { background: var(--purple); }
 .card-gold .card-btn   { background: var(--gold); }
+.card-red .card-btn    { background: var(--red); }
 
 .card-btn:hover {
   transform: translateX(4px);
@@ -348,6 +353,7 @@ body {
 .project-card:nth-child(2) { animation-delay: .25s; }
 .project-card:nth-child(3) { animation-delay: .4s; }
 .project-card:nth-child(4) { animation-delay: .55s; }
+.project-card:nth-child(5) { animation-delay: .7s; }
 
 @keyframes cardReveal {
   to { opacity: 1; transform: translateY(0); }
