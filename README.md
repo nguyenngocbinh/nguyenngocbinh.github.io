@@ -42,6 +42,16 @@ nguyenngocbinh.github.io/
 2. Mở `index.html` trong trình duyệt
 3. Không cần build, không cần server!
 
+## ☕ Ủng hộ tác giả
+
+Nếu bạn thấy các ứng dụng hữu ích, hãy mời tác giả một ly cà phê nhé!
+
+| 🏦 Ngân hàng | 💳 Số tài khoản | 👤 Chủ TK |
+|---|---|---|
+| TPBank (Tiên Phong) | **66686686666** | Nguyễn Ngọc Bình |
+
+Mọi đóng góp đều là nguồn động lực to lớn! Cảm ơn bạn 🙏
+
 ## 📄 License
 
 MIT License – feel free to use, modify, and share!

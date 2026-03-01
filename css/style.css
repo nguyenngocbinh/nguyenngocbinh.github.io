@@ -304,6 +304,46 @@ body {
 }
 
 /* ══════════════════════════════════════
+   Donate Section
+   ══════════════════════════════════════ */
+.donate-section {
+  padding: 2rem 1.5rem 2.5rem;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.donate-text {
+  font-size: .95rem;
+  color: var(--text-light);
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
+.donate-card {
+  background: white;
+  border-radius: var(--card-radius);
+  padding: 1.5rem 2rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,.06);
+  border-left: 4px solid var(--gold);
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+.donate-info p {
+  font-size: .95rem;
+  margin-bottom: .4rem;
+  color: var(--text);
+}
+.donate-info p:last-child { margin-bottom: 0; }
+.donate-label {
+  font-weight: 700;
+}
+.donate-thanks {
+  font-size: 1rem;
+  color: var(--text-light);
+  font-weight: 600;
+}
+
+/* ══════════════════════════════════════
    Footer
    ══════════════════════════════════════ */
 .footer {
